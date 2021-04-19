@@ -1,0 +1,31 @@
+.selected{
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+.notSelected{
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: none;
+}
+.circleContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+}
+.circle-fill{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #5564DD;
+    margin: 0 10px;
+}
+.circle{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #C4C4C4;
+    margin: 0 10px;
+}

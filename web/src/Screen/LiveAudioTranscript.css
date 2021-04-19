@@ -1,0 +1,8 @@
+.transcriptBody{
+    flex: 1;
+    overflow: scroll;
+    padding: 5px;
+}
+.transcriptBody::-webkit-scrollbar {
+    display: none;
+}

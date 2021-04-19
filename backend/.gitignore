@@ -1,0 +1,9 @@
+.DS_Store
+*.wav
+*.flac
+
+# GCP Service account 
+magic4hd-1cd6dd8b2502.json
+
+# sentiment analysis 
+sentiment.py
